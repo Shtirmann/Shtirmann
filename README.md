@@ -19,7 +19,7 @@ I am an AI Engineering student at ITMO University, currently focused on bridging
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Shtirmann&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shtirmann&theme=tokyonight" alt="Shtirmann's Streak" />
 </p>
 
 ---
