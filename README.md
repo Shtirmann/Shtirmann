@@ -1,7 +1,7 @@
 # Hi there, I'm Alexander Shiyanov (Shtirmann) 👋
 
 ### 👨‍💻 AI Research Engineer & Tech Lead
-I am an AI Engineering student at ITMO University, currently focused on bridging the gap between cutting-edge research and production-ready ML systems.
+I am an AI Engineering student at ITMO University, smart text smart text etc. Who reads this anyway?
 
 - 🔬 **Research Assistant** at [AIST Lab (ITMO)](https://aimclub.github.io/) - Working on **AI for Code** and Developer Tools.
 - 🏗️ **Contributor** to [OSA (Open Source Advisor)](https://github.com/aimclub/OSA) - Building LLM agents to fix the reproducibility crisis in science.
