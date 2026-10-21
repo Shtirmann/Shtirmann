@@ -5,7 +5,7 @@ I am an AI Engineering student at ITMO University, smart text smart text etc. Wh
 
 - **Research Assistant** at [NSS Lab (ITMO)](https://itmo-nss-team.github.io/) - Working on **AI for Code** and Developer Tools.
 - Working at [OSA (Open Source Advisor)](https://github.com/aimclub/OSA) - Building LLM agents to fix the reproducibility crisis in science.
-- And to [PAUK](https://github.com/ITMO-NSS-team/PAUK) - Forming a graph of science works for my uni.
+- And at [PAUK](https://github.com/ITMO-NSS-team/PAUK) - Forming a graph of science works for my uni.
 ---
 
 ### 📈 GitHub Stats
