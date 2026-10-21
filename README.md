@@ -1,19 +1,11 @@
 # Hi there, I'm Alexander Shiyanov (Shtirmann) 👋
 
-### 👨‍💻 AI Research Engineer & Tech Lead
+### AI Research Engineer & Tech Lead
 I am an AI Engineering student at ITMO University, smart text smart text etc. Who reads this anyway?
 
-- 🔬 **Research Assistant** at [AIST Lab (ITMO)](https://aimclub.github.io/) - Working on **AI for Code** and Developer Tools.
-- 🏗️ **Contributor** to [OSA (Open Source Advisor)](https://github.com/aimclub/OSA) - Building LLM agents to fix the reproducibility crisis in science.
-- ⚡ **Ex-AI Intern** at T-Bank (Tinkoff).
-
----
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-- **ML/AI:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) `Transformers` `LangChain` `LLM Agents` `RAG`
-- **Infrastructure:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) `GitHub Actions (CI/CD)` `Linux`
-
+- **Research Assistant** at [NSS Lab (ITMO)](https://itmo-nss-team.github.io/) - Working on **AI for Code** and Developer Tools.
+- Working at [OSA (Open Source Advisor)](https://github.com/aimclub/OSA) - Building LLM agents to fix the reproducibility crisis in science.
+- And to [PAUK](https://github.com/ITMO-NSS-team/PAUK) - Forming a graph of science works for my uni.
 ---
 
 ### 📈 GitHub Stats
