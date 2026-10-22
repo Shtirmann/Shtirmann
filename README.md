@@ -1,4 +1,4 @@
-# Hi there, I'm Alexander Shiyanov (Shtirmann) 👋
+# Hi there, cowboy👋
 
 ### AI Research Engineer & Tech Lead
 I am an AI Engineering student at ITMO University, smart text smart text etc. Who reads this anyway?
