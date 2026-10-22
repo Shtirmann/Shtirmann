@@ -1,6 +1,5 @@
 # Hi there, cowboy👋
 
-### AI Research Engineer & Tech Lead
 I am an AI Engineering student at ITMO University, smart text smart text etc. Who reads this anyway?
 
 - **Research Assistant** at [NSS Lab (ITMO)](https://itmo-nss-team.github.io/) - Working on **AI for Code** and Developer Tools.
